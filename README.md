@@ -18,13 +18,13 @@ from the example you can see that my function created an array with 5 rows and 4
  
  2. **ND** 
 
-This file calculates the number of days when inputted a number of months and days. The program is able to account for leapyears. If the number of days is calculated for a leapyear, the program will add 1 day to the final answer to account for the leapyear. The user must input if it is a leapyear or not.
+<p>This file calculates the number of days when inputted a number of months and days. The program is able to account for leapyears. If the number of days is calculated for a leapyear, the program will add 1 day to the final answer to account for the leapyear. The user must input if it is a leapyear or not.</p>
 
-For example, if my function was called with the inputs as *mo = 2*, *da = 1*, *leap = 0*<br> the result would be outputted as 60 days.
+For example, if my function was called with the inputs as *mo = 2*, *da = 1*, *leap = 0*, the result would be outputted as 60 days.
 
 3. **Homework 7 question 1** 
 
-This code shows left division which is used in matrix algebra. The basic formula follows: A\B;
+This code shows left division which is used in matrix algebra. The basic formula follows: *A\B*;
 
 4. **Homework 15**
 
