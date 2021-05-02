@@ -14,7 +14,7 @@ This program will create a special matrix with two input numbers. I manipulated 
      5    16    41    91
 ```
 
-from the example you can see that my function created an array with 5 rows and 4 columns. The first element starts at one. For the rest of the array, the element is defined by adding the element above it with the element to the left of it. 
+From the example you can see that my function created an array with 5 rows and 4 columns. The first element starts at one. For the rest of the array, the element is defined by adding the element above it with the element to the left of it. 
  
  2. **ND** 
 
