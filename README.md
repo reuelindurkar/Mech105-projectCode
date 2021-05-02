@@ -1,7 +1,7 @@
 ## Mech105-projectCode
+=========
+Here are all the project files from Mech 105(Mechanical Engineering Problem Solving)
 
-#Here are all the project files from Mech 105(Mechanical Engineering Problem Solving)
-===============
 1.  **Special Matrix**
 
 This program will create a special matrix with two input numbers. I manipulated various cells of a two dimensional array while filtering through the entire array to access previous array values. For example, if my function was called with the inputs as n = 5, and m = 4, the following matrix would be outputted:
