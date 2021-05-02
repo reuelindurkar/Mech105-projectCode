@@ -5,7 +5,7 @@
 
 1.  **Special Matrix**
 
-This program will create a special matrix with two input numbers. I manipulated various cells of a two dimensional array while filtering through the entire array to access previous array values. For example, if my function was called with the inputs as n = 5, and m = 4, the following matrix would be outputted:
+This program will create a special matrix with two input numbers. I manipulated various cells of a two dimensional array while filtering through the entire array to access previous array values. For example, if my function was called with the inputs as *n = 5*, and *m = 4*, the following matrix would be outputted:
 ```
      1     2     3     4
      2     4     7    11
@@ -20,7 +20,7 @@ from the example you can see that my function created an array with 5 rows and 4
 
 This file calculates the number of days when inputted a number of months and days. The program is able to account for leapyears. If the number of days is calculated for a leapyear, the program will add 1 day to the final answer to account for the leapyear. The user must input if it is a leapyear or not.
 
-For example, if my function was called with the inputs as 
+For example, if my function was called with the inputs as *mo = 2*, *da = 1*, *leap = 0*<br> the result would be outputted as 60 days.
 
 3. **Homework 7 question 1** 
 
